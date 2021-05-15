@@ -1,0 +1,5 @@
+Tools -> Options -> 7-Zip
+Cascade Context Menu: Off
+Uncheck Everything Except:
+Extract to <folder>
+Add to archive...
