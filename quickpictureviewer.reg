@@ -4,3 +4,5 @@ Windows Registry Editor Version 5.00
 [-HKEY_CLASSES_ROOT\Directory\Background\shell\QuickPictureViewer]
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\QuickPictureViewer]
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\background\shell\QuickPictureViewer]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shell\QuickPictureViewer]
+[-HKEY_CLASSES_ROOT\*\shell\QuickPictureViewer]
