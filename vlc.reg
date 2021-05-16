@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[-Computer\HKEY_CLASSES_ROOT\AudioCD\shell\PlayWithVLC]
+[-Computer\HKEY_CLASSES_ROOT\DVD\shell\PlayWithVLC]
