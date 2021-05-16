@@ -1,0 +1,5 @@
+fix permissions: https://windowsloop.com/how-to-remove-open-powershell-window-here-option-from-right-click/
+
+Computer\HKEY_CLASSES_ROOT\Directory\shell\Powershell
+
+rename ShowBasedOnVelocityId to HideBasedOnVelocityId
